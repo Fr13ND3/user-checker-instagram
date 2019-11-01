@@ -15,8 +15,11 @@ If you encounter Error :
   1- install Python 3
   
   2-[ * ] Enter Your Terminal or cmd : 
+  
     pip install Pyqt5
+    
     pip install requests
+    
     pip install bs4
 
 
