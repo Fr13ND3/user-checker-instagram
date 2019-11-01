@@ -1,3 +1,7 @@
+# Coded By Zed-Team
+# Please Fork Dont Copy
+# And Join My Channel : @Arch_TM
+
 import os
 try:
     from PyQt5 import QtCore, QtGui, QtWidgets
@@ -116,12 +120,6 @@ class Ui_main_form(object):
         global d
         d = fileName[2:-11]
 
-        
-
-            
-            
-    # check follower 2 == combolist
-    #check following 2 == only user
     def start_btn(self):
         try:
             with open('user_checked.txt','x'):
