@@ -16,7 +16,7 @@ If you encounter Error :
   
   2-[ * ] Enter Your Terminal or cmd : 
   
-    pip install Pyqt5
+    pip install colorama
     
     pip install requests
     
